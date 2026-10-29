@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# 公開ドメイン決定後にサイトマップを追記してください
+# Sitemap: https://kojinzo.jp/sitemap.xml
